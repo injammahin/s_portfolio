@@ -73,7 +73,7 @@ nav {
     height: 3px;
     width: 30px;
     border-radius: 2px;
-    background-color: #324b3b;
+    background-color: #dbeae1;
     opacity: var(--active-element-show);
 
     & > svg,
@@ -166,7 +166,7 @@ html {
 
 html,
 body {
-  background: #0a1633;
+  background: #00101b;
   height: 100vh;
   width: 100vw;
   position: absolute;
@@ -319,7 +319,7 @@ body {
   margin: 90px auto;
   width: 140px;
   height: 130px;
-  background-color: #0a1633;
+  background-color: #00101b;
   border-radius: 50px/25px;
   box-shadow: inset -5px 2px 0px 0px red;
   animation: body 9s 1 forwards;
@@ -331,7 +331,7 @@ body {
   position: absolute;
   width: 200px;
   height: 200px;
-  background-color: #0a1633;
+  background-color: #00101b;
   border-radius: 0px 0px 50px 50px;
   position: relative;
   z-index: -2;
@@ -348,7 +348,7 @@ body {
   width: 100px;
   height: 150px;
   position: absolute;
-  background-color: #0a1633;
+  background-color: #00101b;
   border-radius: 20px;
   box-shadow: -1px -4px 0px 0px red;
   transform: rotate(45deg);

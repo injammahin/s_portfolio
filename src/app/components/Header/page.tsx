@@ -140,7 +140,7 @@ const Header: React.FC = () => {
 
   return (
     <>
-      <nav className="p-4 font-sen bg-[#030637]">
+      <nav className="p-4 font-sen ">
         <ul>
           <li className="active center">
             <button>ABOUT</button>
